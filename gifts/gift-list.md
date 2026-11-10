@@ -7,7 +7,7 @@ improvising, and nobody wants that again.
 |-----|------|-----------|----------|
 | Cindy-Lou Who | A proper bed for the smallest Who, with a bell on the post | Betty-Lou Who | yes |
 | Betty-Lou Who | A copper pan that whistles the low note | Lou Lou Who | yes |
-| Lou Lou Who | Forty-eight sleigh bells, tuned | Cindy-Lou Who | not yet |
+| Lou Lou Who | Forty-two sleigh bells, tuned | Cindy-Lou Who | not yet |
 | Mayor Augustus MayWho | A louder megaphone (regrettable) | The Council | yes |
 | Martha May Whovier | A string of lights that never needs untangling | Augustus MayWho | yes |
 | Drusilla Who | Snow-boots, size enormous | Clarnella Who | yes |
@@ -23,7 +23,8 @@ improvising, and nobody wants that again.
 - Somebody should put a gift down for the one who lives up the mountain.
   Nobody ever does. Cindy-Lou asked about it twice.
 - Ribbon count needs checking against what the School actually has.
-- Bell count needs checking against what Hardware actually has.
+- ~~Bell count needs checking against what Hardware actually has.~~
+  Checked. Forty-two. They are not getting any more in before the feast.
 
 ## Collection point
 
