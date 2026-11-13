@@ -1,29 +1,38 @@
-# Who-ville Gift Registry
+# whoville-gift-registry
 
-The official gift registry of Who-ville, kept by the Office of the Mayor
-so that no Who — no matter how small — wakes up forgotten on Christmas
-morning.
+Empty.
 
-## How it works
+I came down the mountain and I took the lot. The tree. The tinsel. The
+roast beast. The ribbon, the bells, the boots in both enormous sizes.
+And the registry — oh, the *registry*. Forty-two bells and ninety-nine
+yards of ribbon, all written down so neatly, all gone so easily.
 
-1. Every Who writes their name in [`gifts/gift-list.md`](gifts/gift-list.md).
-2. Every Who signs up opposite somebody *else's* name. No Who buys for
-   themselves. That is the whole trick of it.
-3. On Christmas Eve the registry closes, the bells go up, and the Mayor
-   reads the whole list aloud from the bandstand whether anybody asked
-   him to or not.
+I took the key to the hall door, too. Nobody feasts.
 
-## House rules
+### What's left for you
 
-- One gift per Who. Two if it is very small or very loud.
-- Nothing that has to be fed.
-- The feast begins when the doors open, not when the last Who arrives,
-  so do not be the last Who to arrive.
+```
+gifts/     empty
+tales/     empty
+config/    empty
+```
 
-## The reading
+Three empty rooms and a Grinch in a good mood. Go home.
 
-There is always a reading before the feast. This year's is kept in
-[`tales/`](tales/) and was chosen by the smallest Who on the list, which
-is why it is in the old tongue and rather longer than last year's.
+---
 
-*Fa who foraze, dah who doraze. Welcome, Christmas, come this way.*
+Although.
+
+Although, although, although.
+
+You Whos are *such* keepers of records. You write everything down. You
+write down what you bought and what you paid and what time the doors
+open, and then you write down the writing-down, and you keep every
+scrap of it forever, and you never once think about who else can read
+it back.
+
+I only emptied the rooms. I never said I burned the ledger.
+
+— G.
+
+*Mt. Crumpit*
